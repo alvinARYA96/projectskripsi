@@ -570,3 +570,4 @@ print(f"Log File: {LOG_FILE}")
 print(f"{'='*60}\n")
 
 root.mainloop()
+
